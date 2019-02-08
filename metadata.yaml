@@ -1,0 +1,42 @@
+_repo: The-King-s-Ring-Being-a-Romance-of-the-Days-of-Gustavus-Adolphus-and-the-Thirty-Years-War_58838
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Arnold, Herbert
+    gutenberg_agent_id: '50175'
+    url: http://www.gutenberg.org/2009/agents/50175
+  - agent_name: Öhrwall, Sophie
+    gutenberg_agent_id: '50174'
+    url: http://www.gutenberg.org/2009/agents/50174
+creator:
+  author:
+    agent_name: Topelius, Zacharias
+    aliases:
+    - Topelius, Zakarias
+    - Topelius, Zakris
+    - Topelius, Sakarias
+    - Topelius, Zachris
+    birthdate: 1818
+    deathdate: 1898
+    gutenberg_agent_id: '6545'
+    url: http://www.gutenberg.org/2009/agents/6545
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Zachris_Topelius
+    - http://fi.wikipedia.org/wiki/Zacharias_Topelius
+description: ''
+gutenberg_issued: '2019-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58838'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The King''s Ring
+
+  Being a Romance of the Days of Gustavus Adolphus and the
+
+  Thirty Years'' War'
+url: http://www.gutenberg.org/ebooks/58838
