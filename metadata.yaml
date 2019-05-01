@@ -8,6 +8,9 @@ contributor:
   - agent_name: Öhrwall, Sophie
     gutenberg_agent_id: '50174'
     url: http://www.gutenberg.org/2009/agents/50174
+covers:
+- cover_type: archival
+  image_path: 58838-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Topelius, Zacharias
@@ -24,6 +27,8 @@ creator:
     - http://en.wikipedia.org/wiki/Zachris_Topelius
     - http://fi.wikipedia.org/wiki/Zacharias_Topelius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58838#The-King-s-Ring-Being-a-Romance-of-the-Days-of-Gustavus-Adolphus-and-the-Thirty-Years-War
 gutenberg_issued: '2019-02-07'
 gutenberg_type: Text
 identifiers:
